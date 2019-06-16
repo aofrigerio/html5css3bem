@@ -1,6 +1,21 @@
   /* ---------------------------------- */
   /* PLANO */
   /* ---------------------------------- */
+
+
+  /*
+
+  Como são organizados:
+
+  blocos:
+    nome
+
+  elementos:
+    nome__elemento
+
+  */
+
+
   .plano {
     padding: 10px;
     border: 1px solid #95a4a5;
