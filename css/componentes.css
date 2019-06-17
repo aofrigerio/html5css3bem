@@ -19,28 +19,35 @@
   .plano {
     padding: 10px;
     border: 1px solid #95a4a5;
+
+    font-size: 0.875rem;
   }
   
   .plano__cabecalho {
-    background-color: #95a4a5;
-    color: #fff;
-    text-align: center;
-    line-height: 2.5;
+
     margin: -10px;
     margin-bottom: 0;
+    
+    background-color: #95a4a5;
+    color: #fff;
+
+    text-align: center;
+    line-height: 2.5;
     font-weight: normal;
-    font-size: 28px;
+    font-size: 2em;
   }
 
   .plano__caracteristicas {
     list-style: none;
     padding: 0;
     margin: 20px 0;
+
+    font-size: 1em;
   }
   
   .plano__preco {
     text-align: center;
-    font-size: 28px;
+    font-size: 2em;
     margin: 20px 0;
   }
   
